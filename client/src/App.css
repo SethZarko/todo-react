@@ -200,6 +200,12 @@ header hr {
     width: 100%;
     color: black;
     text-align: right;
+    transition: ease-in .1s;
+}
+
+.todo-item p:hover {
+    background: #6dd5fa;
+    color: white;
 }
 
 footer {
