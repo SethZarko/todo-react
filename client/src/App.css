@@ -198,6 +198,7 @@ header hr {
     font-weight: 400;
     cursor: pointer !important;
     width: 100%;
+    color: black;
     text-align: right;
 }
 
