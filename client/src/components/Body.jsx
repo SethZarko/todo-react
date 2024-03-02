@@ -78,7 +78,7 @@ export const Body = ({
         <div className="todo-display">
           <h3>Current Todos:</h3>
           {!todoState ? (
-            <h3>None...</h3>
+            <p>None...</p>
           ) : (
             <>
               {todoItems.map((todo, index) => (
