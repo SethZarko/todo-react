@@ -182,8 +182,8 @@ header hr {
 }
 
 .todo-item:hover {
-    background: #6dd5fa;
-    color: white;
+    background: #6dd5fa !important;
+    color: white !important;
 }
 
 .todo-item h4 {
@@ -201,11 +201,6 @@ header hr {
     color: black;
     text-align: right;
     transition: ease-in .1s;
-}
-
-.todo-item p:hover {
-    background: #6dd5fa;
-    color: white;
 }
 
 footer {
