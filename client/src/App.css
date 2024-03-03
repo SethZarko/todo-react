@@ -22,8 +22,6 @@ h1, h2, h3, h4, h5, h6, p, small {
     flex-direction: column;
     align-items: center;
     background: #2980b9;
-    background: -webkit-linear-gradient(to left, #ffffff, #6dd5fa, #2980b9);
-    background: linear-gradient(to left, #ffffff, #6dd5fa, #2980b9);
 }
 
 /* Header */
