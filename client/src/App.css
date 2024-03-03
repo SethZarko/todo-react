@@ -226,8 +226,8 @@ footer small {
 
 .react-logo {
     display: block;
-    width: 65px;
-    height: 60px;
+    width: 80px;
+    height: 70px;
     object-fit: cover;
 }
 
@@ -243,11 +243,6 @@ footer small {
     
     footer small {
         font-size: 1.5rem;
-    }
-    
-    .react-logo {
-        width: 85px;
-        height: 70px;
     }
 }
 
